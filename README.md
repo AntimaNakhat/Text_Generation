@@ -1,6 +1,6 @@
 # Text Generation using Google's Gemini Pro
 
-This repository demonstrates how to generate text using the **Gemini Pro** model via the Google Generative AI SDK. The project is implemented in a Jupyter Notebook and provides a simple interface for interacting with Gemini's large language model (LLM).
+This repository demonstrates how to generate text using the **Gemini flash** model via the Google Generative AI SDK. The project is implemented in a Jupyter Notebook and provides a simple interface for interacting with Gemini's large language model (LLM).
 
 ## 🚀 Features
 
